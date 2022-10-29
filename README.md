@@ -1,6 +1,6 @@
 # Pokedex
 
-![preview](./.github/preview_1.png)
+![preview](./preview_2.png)
 
 > Descrição
 
