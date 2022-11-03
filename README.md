@@ -12,7 +12,7 @@ Projeto construído na aula do canal do [Roger-Melo](https://youtu.be/Uptu3NrBFB
 
 - HTML
 - CSS
-- JavaScript
+- Javascript
 - Git e GitHub
 
 ✉️ Contato
